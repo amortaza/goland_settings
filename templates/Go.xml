@@ -1,0 +1,8 @@
+<templateSet group="Go">
+  <template name="pnt" value="fmt.Println(&quot;$1$&quot;)" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="GO" value="true" />
+    </context>
+  </template>
+</templateSet>

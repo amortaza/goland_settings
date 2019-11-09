@@ -1,2 +1,2 @@
 # goland_settings
-Goland IDE settings
+Goland IDE settings.
